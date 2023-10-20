@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">T01p02b</string>
+    <string name="title_task_manager">All task completed</string>
+    <string name="second_line_task_manager">Nice work!</string>
+</resources>

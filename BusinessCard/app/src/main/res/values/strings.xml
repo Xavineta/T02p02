@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="full_name">Jose Francisco</string>
+    <string name="title">Android Developer</string>
+    <string name="phone_number">+34 61234032</string>
+    <string name="social_media">(@)JoseFrancisco</string>
+    <string name="email">(@)chirinos_murcia.es</string>
+</resources>
